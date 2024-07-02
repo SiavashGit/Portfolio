@@ -8,9 +8,9 @@ TMU (2007)
 HEC Montreal (2017, Top Student)
 
 ## Certifications
-**Certified Azure AI Engineer**, Microsoft (6/2024)
+![Microsoft-Logo](/assets/icon/Microsoft-Logo.png)**Certified Azure AI Engineer**, Microsoft (6/2024)
 
-**Advanced Data Analytics**, Google (3/2024)
+![Google-Logo](/assets/icon/Google-Logo.png)**Advanced Data Analytics**, Google (3/2024)
 
 **Certified SAFe 6 Agilist**, Scaled Agile (7/2023)
 
