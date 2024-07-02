@@ -32,22 +32,22 @@ HEC Montreal (2017, Top Student)
 **TD Insurance** (11/2016 – Present)
 
 *Sr. Business Analyst and BA Specialist*
-- Analyzed complex business problems, proactively identified and engaged impacted stakeholders to align on desired outcomes.
+- Analyzed complex business problems, and proactively identified and engaged impacted stakeholders to align on desired outcomes.
 - Led E2E needs analysis and developed comprehensive requirements for varied business/technical partners in various regulatory and non-regulatory high-impact initiatives
 - Supported testing efforts to ensure adequate test coverage and proper analysis and resolving defects.
 
 *Business Systems Analyst*
 - Led system requirements analysis and delivery during 3 releases of TDI's biggest transformational program (GPS) for various API and technical delivery teams.
 - Improved quality by 42% (less defects) and increased velocity by 21% of Agile pod.
-- Became the point of reference shortly after joining the pod by developing overarching yet simplified technical specification for managed APIs to support the team to deliver with impact and quality.
+- Became the point of reference shortly after joining the pod by developing overarching yet simplified technical specifications for managed APIs to support the team to deliver with impact and quality.
 
 **TAM IKCO** (1/2012 – 4/2015)
 
 *Business Systems Analysis and Process Management Supervisor*
 - Designed and implemented a statistically unbiased HR Performance Measurement system.
-- Defined and monitored KPIs, analyzed process analytics and championed data-informed improvement initiatives.
+- Defined and monitored KPIs, analyzed process analytics, and championed data-informed improvement initiatives.
 - Analyzed process analytics and presented performance reports leading to strategic change initiatives.
-- Developed and presented (to executives) insightful analytical reports/dashboards which empowered operational and strategic decisions.
+- Developed and presented (to executives) insightful analytical reports/dashboards that empowered operational and strategic decisions.
 
 **Misc. Companies** (2004 – 2012)
 
