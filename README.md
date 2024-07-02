@@ -17,10 +17,10 @@ HEC Montreal (2017, Top Student)
 <img align="left" width="30" height="30" src="/assets/icon/SAFe-Badge.png">**Certified SAFe 6 Agilist**, Scaled Agile (7/2023)
 <br clear="left"/>
 
-<img align="left"  width="60" height="30" src="/assets/icon/Prosci-Logo.png">**Change Management Practitioner**, PROSCI (8/2019)
+<img align="left"  width="60" height="25" src="/assets/icon/Prosci-Logo.png">**Change Management Practitioner**, PROSCI (8/2019)
 <br clear="left"/>
 
-<img align="left"  width="60" height="30" src="/assets/icon/IIBA-Logo.png">**Certified BA Professional (CBAP)**, IIBA (1/2016)
+<img align="left"  width="60" height="25" src="/assets/icon/IIBA-Logo.png">**Certified BA Professional (CBAP)**, IIBA (1/2016)
 <br clear="left"/>
 
 ## Skills
