@@ -8,15 +8,13 @@ TMU (2007)
 HEC Montreal (2017, Top Student)
 
 ## Certifications
-![Microsoft-Logo](/assets/icon/Microsoft-Logo.png)**Certified Azure AI Engineer**, Microsoft (6/2024)
-
-![Google-Logo](/assets/icon/Google-Logo.png)**Advanced Data Analytics**, Google (3/2024)
-
-**Certified SAFe 6 Agilist**, Scaled Agile (7/2023)
-
-**Change Management Practitioner**, PROSCI (8/2019)
-
-**Certified BA Professional (CBAP)**, IIBA (1/2016
+|||
+|---|:---|
+|<img src="/assets/icon/Microsoft-Logo.png" width="25" height="25">| **Certified Azure AI Engineer**, Microsoft (6/2024)|
+|<img src="/assets/icon/Google-Logo.png" width="25" height="25">|**Advanced Data Analytics**, Google (3/2024)|
+||**Certified SAFe 6 Agilist**, Scaled Agile (7/2023)|
+||**Change Management Practitioner**, PROSCI (8/2019)|
+||**Certified BA Professional (CBAP)**, IIBA (1/2016|
 
 ## Skills
 **Analytical**: Machine Learning (Model Development, Training, Testing/Validation, Evaluation and Deployment), Predictive Models, Natural Language Processing (LLM), Statistics, Mathematical Modeling, Operations Research, Cloud AI Platforms, Exploratory Data Analysis, Data Modeling, Visualization and Manipulation.
