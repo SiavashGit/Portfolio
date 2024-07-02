@@ -8,15 +8,20 @@ TMU (2007)
 HEC Montreal (2017, Top Student)
 
 ## Certifications
-<img src="/assets/icon/Microsoft-Logo.png" width="25" height="25"> **Certified Azure AI Engineer**, Microsoft (6/2024)
+<img align="left" width="25" height="25" src="/assets/icon/Microsoft-Logo.png">**Certified Azure AI Engineer**, Microsoft (6/2024)
+<br clear="left"/>
 
-<img src="/assets/icon/Google-Logo.png" width="25" height="25"> **Advanced Data Analytics**, Google (3/2024)
+<img align="left" width="25" height="25" src="/assets/icon/Google-Logo.png">**Advanced Data Analytics**, Google (3/2024)
+<br clear="left"/>
 
-**Certified SAFe 6 Agilist**, Scaled Agile (7/2023)
+<img align="left" width="30" height="30" src="/assets/icon/SAFe-Badge.png">**Certified SAFe 6 Agilist**, Scaled Agile (7/2023)
+<br clear="left"/>
 
-**Change Management Practitioner**, PROSCI (8/2019)
+<img align="left"  width="60" height="25" src="/assets/icon/Prosci-Logo.png">**Change Management Practitioner**, PROSCI (8/2019)
+<br clear="left"/>
 
-**Certified BA Professional (CBAP)**, IIBA (1/2016)
+<img align="left"  width="60" height="25" src="/assets/icon/IIBA-Logo.png">**Certified BA Professional (CBAP)**, IIBA (1/2016)
+<br clear="left"/>
 
 ## Skills
 **Analytical**: Machine Learning (Model Development, Training, Testing/Validation, Evaluation and Deployment), Predictive Models, Natural Language Processing (LLM), Statistics, Mathematical Modeling, Operations Research, Cloud AI Platforms, Exploratory Data Analysis, Data Modeling, Visualization and Manipulation.
@@ -27,22 +32,22 @@ HEC Montreal (2017, Top Student)
 **TD Insurance** (11/2016 – Present)
 
 *Sr. Business Analyst and BA Specialist*
-- Analyzed complex business problems, proactively identified and engaged impacted stakeholders to align on desired outcomes.
+- Analyzed complex business problems, and proactively identified and engaged impacted stakeholders to align on desired outcomes.
 - Led E2E needs analysis and developed comprehensive requirements for varied business/technical partners in various regulatory and non-regulatory high-impact initiatives
 - Supported testing efforts to ensure adequate test coverage and proper analysis and resolving defects.
 
 *Business Systems Analyst*
 - Led system requirements analysis and delivery during 3 releases of TDI's biggest transformational program (GPS) for various API and technical delivery teams.
 - Improved quality by 42% (less defects) and increased velocity by 21% of Agile pod.
-- Became the point of reference shortly after joining the pod by developing overarching yet simplified technical specification for managed APIs to support the team to deliver with impact and quality.
+- Became the point of reference shortly after joining the pod by developing overarching yet simplified technical specifications for managed APIs to support the team to deliver with impact and quality.
 
 **TAM IKCO** (1/2012 – 4/2015)
 
 *Business Systems Analysis and Process Management Supervisor*
 - Designed and implemented a statistically unbiased HR Performance Measurement system.
-- Defined and monitored KPIs, analyzed process analytics and championed data-informed improvement initiatives.
+- Defined and monitored KPIs, analyzed process analytics, and championed data-informed improvement initiatives.
 - Analyzed process analytics and presented performance reports leading to strategic change initiatives.
-- Developed and presented (to executives) insightful analytical reports/dashboards which empowered operational and strategic decisions.
+- Developed and presented (to executives) insightful analytical reports/dashboards that empowered operational and strategic decisions.
 
 **Misc. Companies** (2004 – 2012)
 
