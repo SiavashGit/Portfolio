@@ -2,18 +2,22 @@
 ---
 
 @import "{{ site.theme }}";
+<!--
+.wrapper {
+    width: 970px;
+    margin: 0 auto
+}
+
 header {
     width: 270px;
     float: left;
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased
 }
-.wrapper {
-    width: 970px;
-    margin: 0 auto
-}
+
 section {
     width: 570px;
     float: right;
     padding-bottom: 50px
 }
+-->
