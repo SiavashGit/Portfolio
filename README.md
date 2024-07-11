@@ -8,20 +8,24 @@ TMU (2007)
 HEC Montreal (2017, Top Student)
 
 ## Certifications
-<img align="left" width="25" height="25" src="assets/img/Microsoft-Logo.png" style="margin-right: 10px;"> **Certified Azure AI Engineer Associate**<be>
+<img align="left" width="45" height="45" src="assets/img/Microsoft-Logo.png" style="margin-right: 10px;"> **Certified Azure AI Engineer Associate**<br>
 Microsoft (6/2024)
 <br clear="left"/>
 
-<img align="left" width="25" height="25" src="assets/img/Google-Logo.png" style="margin-right: 10px;"> **Advanced Data Analytics**, Google (3/2024)
+<img align="left" width="45" height="45" src="assets/img/Google-Logo.png" style="margin-right: 10px;"> **Advanced Data Analytics**<br>
+Google (3/2024)
 <br clear="left"/>
 
-<img align="left" width="25" height="25" src="assets/img/SAFe-Badge.png" style="margin-right: 10px;"> **Certified SAFe 6 Agilist**, Scaled Agile (7/2023)
+<img align="left" width="50" height="50" src="assets/img/SAFe-Badge.png" style="margin-right: 10px;"> **Certified SAFe 6 Agilist**<br>
+Scaled Agile (7/2023)
 <br clear="left"/>
 
-<img align="left"  width="60" height="25" src="assets/img/Prosci-Logo.png" style="margin-right: 10px;"> **Change Management Practitioner**, PROSCI (8/2019)
+<img align="left"  width="70" height="50" src="assets/img/Prosci-Logo.png" style="margin-right: 10px;"> **Change Management Practitioner**<br>
+PROSCI (8/2019)
 <br clear="left"/>
 
-<img align="left"  width="60" height="25" src="assets/img/IIBA-Logo.png" style="margin-right: 10px;"> **Certified BA Professional (CBAP)**, IIBA (1/2016)
+<img align="left"  width="70" height="50" src="assets/img/IIBA-Logo.png" style="margin-right: 10px;"> **Certified BA Professional (CBAP)**<br>
+IIBA (1/2016)
 <br clear="left"/>
 
 ## Skills
