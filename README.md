@@ -8,7 +8,7 @@ TMU (2007)
 HEC Montreal (2017, Top Student)
 
 ## Certifications
-<img align="left" width="30" height="30" src="/assets/img/Microsoft-Logo.png"> **Certified Azure AI Engineer**, Microsoft (6/2024)
+<img align="left" width="30" height="30" src="Portfolio/assets/img/Microsoft-Logo.png"> **Certified Azure AI Engineer**, Microsoft (6/2024)
 <br clear="left"/>
 
 <img align="left" width="30" height="30" src="/assets/img/Google-Logo.png"> **Advanced Data Analytics**, Google (3/2024)
@@ -17,7 +17,7 @@ HEC Montreal (2017, Top Student)
 <img align="left" width="30" height="30" src="/assets/img/SAFe-Badge.png"> **Certified SAFe 6 Agilist**, Scaled Agile (7/2023)
 <br clear="left"/>
 
-<img align="left"  width="60" height="25" src="/assets/img/Prosci-Logo.png"> **Change Management Practitioner**, PROSCI (8/2019)
+<img align="left"  width="60" height="25" src="Portfolio/assets/img/Prosci-Logo.png"> **Change Management Practitioner**, PROSCI (8/2019)
 <br clear="left"/>
 
 <img align="left"  width="60" height="25" src="/assets/img/IIBA-Logo.png"> **Certified BA Professional (CBAP)**, IIBA (1/2016)
