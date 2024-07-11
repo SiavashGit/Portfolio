@@ -34,8 +34,7 @@ IIBA (1/2016)
 **Technical**: Microsoft Azure ML and AI, Python (NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn), JupyterLab, SQL, Tableau, GIT, REST APIs, JIRA (JQL), MS Excel, PowerPoint, Visio.
 
 ## Experience
-**TD Insurance** (11/2016 – Present)
-
+**TD Insurance** (11/2016 – Present)<br>
 *Sr. Business Analyst and BA Specialist*
 - Analyzed complex business problems, and proactively identified and engaged impacted stakeholders to align on desired outcomes.
 - Led E2E needs analysis and developed comprehensive requirements for varied business/technical partners in various regulatory and non-regulatory high-impact initiatives
@@ -46,16 +45,14 @@ IIBA (1/2016)
 - Improved quality by 42% (less defects) and increased velocity by 21% of Agile pod.
 - Became the point of reference shortly after joining the pod by developing overarching yet simplified technical specifications for managed APIs to support the team to deliver with impact and quality.
 
-**TAM IKCO** (1/2012 – 4/2015)
-
+**TAM IKCO** (1/2012 – 4/2015)<br>
 *Business Systems Analysis and Process Management Supervisor*
 - Designed and implemented a statistically unbiased HR Performance Measurement system.
 - Defined and monitored KPIs, analyzed process analytics, and championed data-informed improvement initiatives.
 - Analyzed process analytics and presented performance reports leading to strategic change initiatives.
 - Developed and presented (to executives) insightful analytical reports/dashboards that empowered operational and strategic decisions.
 
-**Misc. Companies** (2004 – 2012)
-
+**Misc. Companies** (2004 – 2012)<br>
 *Mgmt. Consultant, Process Engineer, Operations and Project Planning/Control.*
 
 ## Projects
