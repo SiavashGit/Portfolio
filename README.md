@@ -1,10 +1,10 @@
 # Data Analytics Professional
 
 ## Education
-- **Master of Science in Industrial Engineering**
+- **Master of Science in Industrial Engineering**<br>
 TMU (2007)
 
-- **Information Systems and Business Analysis**
+- **Information Systems and Business Analysis**<br>
 HEC Montreal (2017, Top Student)
 
 ## Certifications
@@ -31,13 +31,13 @@ IIBA (1/2016)
 ## Skills
 **Analytical**: Machine Learning (Model Development, Training, Testing/Validation, Evaluation and Deployment), Predictive Models, Natural Language Processing (LLM), Statistics, Mathematical Modeling, Operations Research, Cloud AI Platforms, Exploratory Data Analysis, Data Modeling, Visualization and Manipulation.
 
-**Technical**: Microsoft Azure ML and AI, Python (NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn), JupyterLab, SQL, Tableau, GIT, REST APIs, JIRA (JQL), MS Excel, PowerPoint, Visio.
+**Technical**: Microsoft Azure ML and AI, Python (NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn), SQL, Tableau, JupyterLab, GitHub, RESTful APIs, JIRA (JQL), MS Excel, PowerPoint, Visio.
 
 ## Experience
 **TD Insurance** (11/2016 – Present)<br>
 *Sr. Business Analyst and BA Specialist*
 - Analyzed complex business problems, and proactively identified and engaged impacted stakeholders to align on desired outcomes.
-- Led E2E needs analysis and developed comprehensive requirements for varied business/technical partners in various regulatory and non-regulatory high-impact initiatives
+- Led E2E needs analysis and developed comprehensive multiple workstream requirements for varied business/technical partners in various regulatory and non-regulatory high-impact initiatives
 - Supported testing efforts to ensure adequate test coverage and proper analysis and resolving defects.
 
 *Business Systems Analyst*
