@@ -37,7 +37,7 @@ IIBA (1/2016)
 **TD Insurance** (11/2016 – Present)<br>
 *Sr. Business Analyst and BA Specialist*
 - Analyzed complex business problems, and proactively identified and engaged impacted stakeholders to align on desired outcomes.
-- Led E2E needs analysis and developed comprehensive multiple workstream requirements for varied business/technical partners in various regulatory and non-regulatory high-impact initiatives
+- Led E2E needs analysis and developed comprehensive multiple workstream requirements for varied business/technical partners in various regulatory and non-regulatory high-impact initiatives.
 - Supported testing efforts to ensure adequate test coverage and proper analysis and resolving defects.
 
 *Business Systems Analyst*
